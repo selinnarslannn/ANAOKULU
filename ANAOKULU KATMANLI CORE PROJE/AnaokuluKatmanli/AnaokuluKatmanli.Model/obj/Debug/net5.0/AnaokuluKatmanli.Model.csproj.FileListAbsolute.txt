@@ -1,0 +1,36 @@
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.deps.json
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.AssemblyInfo.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\refint\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\ref\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.deps.json
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.AssemblyInfo.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\refint\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\ref\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.deps.json
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\bin\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.AssemblyInfo.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\refint\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli.Model\obj\Debug\net5.0\ref\AnaokuluKatmanli.Model.dll

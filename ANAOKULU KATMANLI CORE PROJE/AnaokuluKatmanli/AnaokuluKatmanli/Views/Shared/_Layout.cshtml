@@ -1,0 +1,247 @@
+﻿@*<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] -LimonAğacıAnaokulu 🍋</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" />
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Limon Ağacı Anaokulu 🍋 </a>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-1">
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">*@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Basic -->
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <!-- Site Metas -->
+    <meta name="keywords" content="" />
+    <meta name="description" content="" />
+    <meta name="author" content="" />
+
+    <title>Limon Ağacı</title>
+
+
+
+    <!-- bootstrap core css -->
+    <link rel="stylesheet" type="text/css" href="~/tema/css/bootstrap.css" />
+    <!-- progress barstle -->
+    <link rel="stylesheet" href="~/tema/css/css-circular-prog-bar.css">
+    <!-- fonts style -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700|Raleway:400,600&display=swap" rel="stylesheet">
+    <!-- font wesome stylesheet -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+    <!-- Custom styles for this template -->
+    <link href="~/tema/css/style.css" rel="stylesheet" />
+    <!-- responsive style -->
+    <link href="~/tema/css/responsive.css" rel="stylesheet" />
+  @*  <img src="~/tema/images/admission.png" />*@
+
+
+
+
+    <link rel="stylesheet" href="~/tema/css/css-circular-prog-bar.css">
+
+
+</head>
+
+<body>
+    <div class="top_container">
+        <!-- header section strats -->
+        <header class="header_section">
+            <div class="container">
+                <nav class="navbar navbar-expand-lg custom_nav-container ">
+                    <a class="navbar-brand" href="index.html">
+                        <span>
+                            Limon Ağacı 🍋
+                        </span>
+                    </a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+                            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
+                            <ul class="navbar-nav  ">
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="@Url.Action("Index","Site")"> Anasayfa <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item active">
+                                    <a class="nav-link" href="@Url.Action("Index","Ogretmenler")"> Öğretmenler <span class="sr-only">(current)</span></a>
+                                </li>
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="@Url.Action("Index","Ogrenciler")"> Öğrenciler </a>
+                                </li>
+
+                                <li class="nav-item ">
+                                    <a class="nav-link" href="@Url.Action("Index","Dersler")"> Dersler </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="@Url.Action("Index","Etkinlikler")"> Etkinlikler </a>
+                                </li>
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="contact.html">İletişim </a>
+                                </li>
+
+                            </ul>
+                        </div>
+
+
+                </nav>
+            </div>
+        </header>
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2023 - AnaokuluKatmanli - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+    <section class="info_section layout_padding-top">
+        <div class="info_logo-box">
+            <h2>
+                Limon Ağacı 🍋
+            </h2>
+        </div>
+        <div class="container layout_padding2">
+            <div class="row">
+                <div class="col-md-3">
+                    <h5>
+                        Site Haritası
+                    </h5>
+                    <p>
+                        Öğretmenler <br />
+                        Öğrenciler <br />
+                        Dersler <br />
+                        Etkinlikler <br />
+                    </p>
+                </div>
+                <div class="col-md-3">
+                    <h5>
+
+                        Bizi Arayın
+                    </h5>
+                    <ul>
+                        <li>
+                            <a href="">
+
+                                0210 459 79 78
+
+                        </li>
+                        <li>
+                            <a href="">
+
+                            </a>
+                        </li>
+                        <li>
+                            <a href="">
+
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-md-3">
+                    <h5>
+                        İletişim Bilgileri
+                    </h5>
+                    <p>
+                        Anadolu Yakası <br />
+                        Ataşehir/İstanbul <br />
+                    </p>
+                </div>
+                <div class="col-md-3">
+
+                    <div class="subscribe_container">
+                        <h5>
+                            Bülten
+                        </h5>
+                        <div class="form_container">
+                            <form action="">
+                                <input type="email" placeholder="Enter your email">
+                                <button type="submit">
+                                    Abone Olun
+                                </button>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+        <div class="container">
+            <div class="social_container">
+
+                <div class="social-box">
+                    <a href="">
+                        <img src="~/tema/images/fb.png" alt="">
+                    </a>
+
+                    <a href="">
+                        <img src="~/tema/images/twitter.png" alt="">
+                    </a>
+                    <a href="">
+                        <img src="~/tema/images/linkedin.png" alt="">
+                    </a>
+                    <a href="">
+                        <img src="~/tema/images/instagram.png" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- footer section -->
+    <section class="container-fluid footer_section">
+        <p>
+            Copyright &copy; 2019 All Rights Reserved By
+            <a href="https://html.design/">Free Html Templates</a>
+        </p>
+    </section>
+    <!-- footer section -->
+
+    <script type="text/javascript" src="~/tema/js/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="~/tema/js/bootstrap.js"></script>
+
+
+</body>
+
+</html>
+
+

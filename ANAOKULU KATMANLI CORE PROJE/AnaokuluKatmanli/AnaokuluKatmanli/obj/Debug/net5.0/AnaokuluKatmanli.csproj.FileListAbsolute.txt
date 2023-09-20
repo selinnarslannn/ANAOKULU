@@ -1,0 +1,422 @@
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\appsettings.json
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.exe
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.deps.json
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.runtimeconfig.json
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Views.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Views.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Anaokulu.Data.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Anaokulu.Data.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.AssemblyInfo.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorAssemblyInfo.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorAssemblyInfo.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\scopedcss\bundle\AnaokuluKatmanli.styles.css
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\AnaokuluKatmanli.StaticWebAssets.Manifest.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\AnaokuluKatmanli.StaticWebAssets.Pack.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.AnaokuluKatmanli.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.build.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.TagHelpers.input.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.TagHelpers.output.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorCoreGenerate.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorTargetAssemblyInfo.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorTargetAssemblyInfo.cs
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.Views.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.CopyComplete
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\refint\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.pdb
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.genruntimeconfig.cache
+C:\Users\Monster\Desktop\anaokulu katmanlı proje\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\ref\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\appsettings.json
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.exe
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.deps.json
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.runtimeconfig.json
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Views.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Views.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Anaokulu.Data.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Anaokulu.Data.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.AssemblyInfo.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorAssemblyInfo.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorAssemblyInfo.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\scopedcss\bundle\AnaokuluKatmanli.styles.css
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\AnaokuluKatmanli.StaticWebAssets.Manifest.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\AnaokuluKatmanli.StaticWebAssets.Pack.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.AnaokuluKatmanli.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.build.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.TagHelpers.input.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.TagHelpers.output.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorCoreGenerate.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorTargetAssemblyInfo.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorTargetAssemblyInfo.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.Views.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.CopyComplete
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\refint\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.pdb
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.genruntimeconfig.cache
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\ref\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Site\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\appsettings.json
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.exe
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.deps.json
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.runtimeconfig.json
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.runtimeconfig.dev.json
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Views.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Views.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Anaokulu.Data.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Model.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\Anaokulu.Data.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\bin\Debug\net5.0\AnaokuluKatmanli.Model.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.AssemblyInfoInputs.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.AssemblyInfo.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorAssemblyInfo.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorAssemblyInfo.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\scopedcss\bundle\AnaokuluKatmanli.styles.css
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\AnaokuluKatmanli.StaticWebAssets.Manifest.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\AnaokuluKatmanli.StaticWebAssets.Pack.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.AnaokuluKatmanli.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.build.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.AnaokuluKatmanli.props
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.TagHelpers.input.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.TagHelpers.output.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorCoreGenerate.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Dersler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Etkinlikler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogrenciler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Create.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Delete.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Edit.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Ogretmenler\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\Site\Index.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorTargetAssemblyInfo.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.RazorTargetAssemblyInfo.cs
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.Views.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.csproj.CopyComplete
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\refint\AnaokuluKatmanli.dll
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.pdb
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\AnaokuluKatmanli.genruntimeconfig.cache
+C:\Users\Monster\Desktop\PROJELER\ANAOKULU KATMANLI CORE PROJE\AnaokuluKatmanli\AnaokuluKatmanli\obj\Debug\net5.0\ref\AnaokuluKatmanli.dll

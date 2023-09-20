@@ -1,0 +1,53 @@
+﻿@model IEnumerable<AnaokuluKatmanli.Model.Models.Ogretmenler>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+           <th>
+                @Html.DisplayNameFor(model => model.OgretmenID)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OgretmenAdi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.OgretmenSoyadi)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Brans)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+              <td>
+                    @Html.DisplayFor(modelItem => item.OgretmenID)
+                </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OgretmenAdi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OgretmenSoyadi)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Brans)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.OgretmenID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.OgretmenID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.OgretmenID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
